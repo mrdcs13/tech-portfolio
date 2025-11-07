@@ -1,2 +1,31 @@
-# LAB-0-WSL-RECOVERY-LINUX-SETUP
-Hands-on Ubuntu troubleshooting and automation labs
+
+---
+
+### 🧷 4️⃣ Atualiza o README principal do repositório
+Abre o ficheiro `README.md` (aquele criado automaticamente) e substitui pelo seguinte conteúdo:
+
+```markdown
+# Canonical Support Labs 🧠🐧
+
+Este repositório documenta a minha aprendizagem e prática em **Linux, troubleshooting e automação**, com foco em **cenários reais inspirados no suporte Canonical**.
+
+---
+
+## 📘 Estrutura dos Labs
+
+| Nº | Título | Descrição |
+|----|---------|------------|
+| 0 | [WSL Recovery & Linux Setup](labs/lab0_wsl_recovery.md) | Reinstalação e diagnóstico do WSL, criação do ambiente base |
+
+---
+
+## 💡 Objetivo Geral
+Construir um portfólio prático que demonstre:
+- Capacidade de **diagnóstico e resolução de problemas reais**  
+- Conhecimento progressivo em **sistemas Ubuntu/Linux**  
+- Organização e documentação técnica profissional
+
+---
+
+📍 **Autor:** Márcio Santos  
+📅 **Início:** Novembro 2025  
