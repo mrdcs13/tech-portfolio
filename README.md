@@ -1,9 +1,5 @@
 
 ---
-
-### 🧷 4️⃣ Atualiza o README principal do repositório
-Abre o ficheiro `README.md` (aquele criado automaticamente) e substitui pelo seguinte conteúdo:
-
 ```markdown
 # Canonical Support Labs 🧠🐧
 
