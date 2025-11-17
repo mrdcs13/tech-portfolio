@@ -1,7 +1,7 @@
 
 ---
 ```markdown
-# Canonical Support Labs 🧠🐧
+# Support Labs 🧠🐧
 
 Este repositório documenta a minha aprendizagem e prática em **Linux, troubleshooting e automação**, com foco em **cenários reais inspirados no suporte Canonical**.
 
@@ -12,7 +12,7 @@ Este repositório documenta a minha aprendizagem e prática em **Linux, troubles
 | Nº | Título | Descrição |
 |----|---------|------------|
 | 0 | [WSL Recovery & Linux Setup](labs/lab0_wsl_recovery.md) | Reinstalação e diagnóstico do WSL, criação do ambiente base |
-
+| 1 | [Diagnóstico e Recuperação de Sistema Linux — Mini-Incident Real) | Simular um incidente real: um serviço está “down”, tens de descobrir o que aconteceu, corrigir e garantir que arranca ao boot.|
 ---
 
 ## 💡 Objetivo Geral
